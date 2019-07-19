@@ -1,0 +1,5 @@
+projectKey=Symfony_project
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Symfony_project
+ceTaskId=AWwAmDTt-gFal__5P6lh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWwAmDTt-gFal__5P6lh
